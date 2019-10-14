@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="BoilerPlate">
+    <test name="OnboardingFlow">
+        <classes>
+            <class name="scenarios.SmokeTest"/>
+        </classes>
+    </test>
+</suite>

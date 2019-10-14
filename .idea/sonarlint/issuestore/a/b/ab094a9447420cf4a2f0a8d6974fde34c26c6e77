@@ -1,0 +1,10 @@
+
+<squid:S1659"%Declare "logging" on a separate line.(«ÄðÈ
+@squid:S1659")Declare "appSelector" on a separate line.(«ÄðÈ
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ž¨¤ÿÿÿÿÿ
+O
+squid:S1066"9Replace this use of System.out or System.err by a logger.( ûê¶
+rsquid:UselessImportCheck
+"IRemove this unused import 'io.appium.java_client.android.AndroidKeyCode'.(ËÊ¶¦ùÿÿÿÿ
+qsquid:UselessImportCheck"HRemove this unused import 'io.appium.java_client.android.AndroidDriver'.(ç•Ø®ýÿÿÿÿ
