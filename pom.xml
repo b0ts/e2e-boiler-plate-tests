@@ -11,6 +11,24 @@
     <name>appium-boiler-plate-e2e-tests</name>
     <url>http://maven.apache.org</url>
 
+    <repositories>
+        <repository>
+            <!-- OSSRH: com.sikulix -->
+            <name>com.sikulix</name>
+            <id>com.sikulix</id>
+            <url>https://oss.sonatype.org/content/groups/public</url>
+            <layout>default</layout>
+            <releases>
+                <enabled>true</enabled>
+                <updatePolicy>always</updatePolicy>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+                <updatePolicy>always</updatePolicy>
+            </snapshots>
+        </repository>
+    </repositories>
+
     <dependencies>
 
         <!-- TESTNG test runner -->
@@ -70,6 +88,13 @@
             <artifactId>junit</artifactId>
             <version>4.12</version>
             <scope>test</scope>
+        </dependency>
+
+        <!-- Silulix for OCR -->
+        <dependency>
+            <groupId>com.sikulix</groupId>
+            <artifactId>sikulixapi</artifactId>
+            <version>1.1.0</version>
         </dependency>
     </dependencies>
 

@@ -3,7 +3,17 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/../AppiumFindByImage/src/test/java/OCRNekoAtsumeTestSuite.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Arduino/GenericSketch.ino">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/README.md">
           <value>
             <set />
           </value>
@@ -29,6 +39,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/appium_hierarchy/PageBase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/appium_hierarchy/VisionPageBase.java">
           <value>
             <set />
           </value>
@@ -119,6 +134,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/lib/JavaUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/lib/OCR.java">
           <value>
             <set />
           </value>
@@ -248,6 +268,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/scenarios/OCRNekoAtsumeTestSuite.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/scenarios/OCRTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/scenarios/OnboardingTests.java">
           <value>
             <set />
@@ -294,6 +324,31 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/scenarios/terminalTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/selenium_components/nav-menu-component.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/selenium_pages/BasePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/selenium_pages/LoginPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/selenium_pages/ProfileEditPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/selenium_pages/SplashPage.java">
           <value>
             <set />
           </value>
