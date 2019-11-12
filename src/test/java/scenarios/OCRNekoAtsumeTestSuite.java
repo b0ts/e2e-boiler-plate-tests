@@ -26,13 +26,12 @@ public class OCRNekoAtsumeTestSuite {
         //Appium setup for the app
         //needs to be installed on target device before the test
         // Note:  The Niko Cat's app needs to be installed on the device and a cat feed bowl added
-        // prior to starting test
+        // prior to starting the test
+        // https://play.google.com/store/apps/details?id=jp.co.hit_point.nekoatsume&hl=en
+
         DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setCapability("appPackage", "jp.co.hit_point.nekoatsume");
         capabilities.setCapability("appActivity", "jp.co.hit_point.nekoatsume.GActivity");
-
-        // capabilities.setCapability("deviceName", "Android Emulator");
-        // capabilities.setCapability("platformVersion", "5.0.1");
 
         capabilities.setCapability("platformVersion", "9");
         capabilities.setCapability("deviceName", "Pixel 2");
